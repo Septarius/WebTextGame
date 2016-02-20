@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 
 namespace HelloWeb
 {
-    public class Program
+    public partial class Startup
     {
         public static void Main(string[] args)
         {

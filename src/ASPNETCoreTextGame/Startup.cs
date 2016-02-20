@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Diagnostics;
 
 namespace HelloWeb
 {
-    public class Startup
+    public partial class Startup
     {
         public void Configure(IApplicationBuilder app, ILoggerFactory loggerFactory)
         {
